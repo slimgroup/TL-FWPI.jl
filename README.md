@@ -1,6 +1,6 @@
 <h1 align="center">Time-lapse full-waveform permeability inversion: a feasibility study</h1>
 
-[![][license-img]][license-status]
+[![][license-img]][license-status] [![][zenodo-img]][zenodo-status]
 
 Code to reproduce results in Ziyi Yin, Mathias Louboutin, Olav Møyner, Felix J. Herrmann, "[Time-lapse full-waveform permeability inversion: a feasibility study](https://arxiv.org/abs/2403.04083)". DOI: 10.48550/arXiv.2403.04083
 
@@ -55,3 +55,5 @@ SLIM public GitHub account, [https://github.com/slimgroup](https://github.com/sl
 [JutulDarcy.jl]:https://github.com/sintefmath/JutulDarcy.jl
 [JutulDarcyRules.jl]:https://github.com/slimgroup/JutulDarcyRules.jl
 [ChainRules.jl]:https://github.com/JuliaDiff/ChainRules.jl
+[zenodo-status]:https://doi.org/10.5281/zenodo.10910283
+[zenodo-img]:https://zenodo.org/badge/DOI/10.5281/zenodo.10910283.svg?style=plastic
