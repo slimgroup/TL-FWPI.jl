@@ -30,6 +30,8 @@ First, install [Julia](https://julialang.org/) and [Python](https://www.python.o
 
 [case-3.jl](scripts/case-3.jl) uses the inverted baseline brine-filled velocity model obtained above to run end-to-end permeability inversion.
 
+[case-4.jl](scripts/case-4.jl) jointly inverts porosity and permeability models with a constraint between them based on Kozeny-Carman relationship.
+
 ## LICENSE
 
 The software used in this repository can be modified and redistributed according to [MIT license](LICENSE).
