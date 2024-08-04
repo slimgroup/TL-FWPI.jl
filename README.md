@@ -1,8 +1,8 @@
-<h1 align="center">Time-lapse full-waveform permeability inversion: a feasibility study</h1>
+<h1 align="center">Time-lapse full-waveform permeability inversion: A feasibility study</h1>
 
 [![][license-img]][license-status] [![][zenodo-img]][zenodo-status]
 
-Code to reproduce results in Ziyi Yin, Mathias Louboutin, Olav Møyner, Felix J. Herrmann, "[Time-lapse full-waveform permeability inversion: a feasibility study](https://arxiv.org/abs/2403.04083)". DOI: 10.48550/arXiv.2403.04083
+Code to reproduce results in Ziyi Yin, Mathias Louboutin, Olav Møyner, Felix J. Herrmann, "[Time-lapse full-waveform permeability inversion: A feasibility study](https://library.seg.org/doi/10.1190/tle43080544.1)", published in The Leading Edge. DOI: 10.1190/tle43080544.1
 
 ## Software descriptions
 
